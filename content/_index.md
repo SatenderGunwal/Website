@@ -77,7 +77,7 @@ sections:
         - title: Research Associate
           company: Centre for Data Science and Artificial Intelligence, IIM Ahmedabad
           company_url: 'https://www.iima.ac.in/faculty-research/centers/Brij-Disa-Centre-for-Data-Science-and-Artificial-Intelligence'
-          company_logo: iima3 #org-x
+          company_logo: iima3
           location: Gujarat, India
           date_start: '2021-09-27'
           date_end: '2023-07-20'
