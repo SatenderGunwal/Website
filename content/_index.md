@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
@@ -50,41 +50,44 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: CEO
-  #         company: GenCoin
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: California
-  #         date_start: '2021-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Responsibilities include:
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Graduate Research Assistant
+          company: University of Illinois Chicago
+          company_url: 'https://www.uic.edu/'
+          company_logo: uic #org-gc
+          location: Illinois, USA
+          date_start: '2023-08-16'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
 
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
-  #       - title: Professor of Semiconductor Physics
-  #         company: University X
-  #         company_url: ''
-  #         company_logo: org-x
-  #         location: California
-  #         date_start: '2016-01-01'
-  #         date_end: '2020-12-31'
-  #         description: Taught electronic engineering and researched semiconductor physics.
-  #   design:
-  #     columns: '2'
+              * Collaborating on Research Projects
+              * Working on Centre for Applied Analytics Projects
+        - title: Research Associate
+          company: Centre for Data Science and Artificial Intelligence, IIM Ahmedabad
+          company_url: 'https://www.iima.ac.in/faculty-research/centers/Brij-Disa-Centre-for-Data-Science-and-Artificial-Intelligence'
+          company_logo: iima #org-x
+          location: Gujarat, India
+          date_start: '2021-09-27'
+          date_end: '2023-07-20'
+          description: |2-
+              Responsibilities include:
+
+              * Working on Research Projects
+              * Assisting in Centre Activities
+    design:
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
