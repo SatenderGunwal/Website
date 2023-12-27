@@ -73,19 +73,20 @@ sections:
               Responsibilities include:
 
               * Collaborating on Research Projects
-              * Working on Centre for Applied Analytics Projects
+              * Working on Data Science Projects for The Centre for Applied Analytics
         - title: Research Associate
           company: Centre for Data Science and Artificial Intelligence, IIM Ahmedabad
           company_url: 'https://www.iima.ac.in/faculty-research/centers/Brij-Disa-Centre-for-Data-Science-and-Artificial-Intelligence'
-          company_logo: iima #org-x
+          company_logo: iima2 #org-x
           location: Gujarat, India
           date_start: '2021-09-27'
           date_end: '2023-07-20'
           description: |2-
               Responsibilities include:
 
-              * Working on Research Projects
-              * Assisting in Centre Activities
+              * Working on Research Projects with Professors
+              * Publishing Research Articles
+              * Assisting in Centre's Administrative Activities
     design:
       columns: '2'
   # - block: accomplishments
