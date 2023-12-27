@@ -1,50 +1,47 @@
 ---
 # Display name
-title: 吳健雄
+title: Satender Gunwal
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Satender Gunwal
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Satender 
+last_name: Gunwal
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Illinois Chicago
+    url: https://www.uic.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Reinforcement Learning, Mathematical Programming and Operations Research
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reinforcement Learning
+  - Bilevel Optimization
+  - Operations Research
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Information and Decision Sciences (IDS)
+      institution: University of Illinois Chicago
+      year: 2023 - Present
+    - course: Bachelor and Master of Science
+      institution: Indian Institute of Science Education and Research (IISER) Mohali
+      year: 2016 - 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +117,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Satender Gunwal is a Ph.D. scholar in the Department of Information and Decision Sciences (IDS) at the University of Illinois Chicago, working under the guidance of [Professor Selvaprabu Nadarajah](https://selvan.people.uic.edu/). His research interests span the fields of Machine Learning and Optimization.
+
+Before joining UIC, Satender served as a Research Associate with the Centre for Data Science and AI at the Indian Institute of Management Ahmedabad (IIMA), India, collaborating with [Professor Ankur Sinha](https://faculty.iima.ac.in/asinha/). During this time, his research focused on addressing the Hyperparameter Optimization problem through Bilevel formulations. He also contributed to the development of algorithms for Discrete Bilevel Optimization. His ongoing research at UIC revolves around the creation of algorithms for Weakly Coupled Markov Decision Processes using Mathematical Programming. 
 {style="text-align: justify;"}
